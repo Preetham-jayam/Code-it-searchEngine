@@ -51,7 +51,7 @@ CODE-IT
    
 2. Navigate to the project directory:
    ```bash
-   cd CodeIt
+   cd Code-it-searchEngine
    ```
 
 3. Install the required dependencies:
@@ -91,7 +91,7 @@ Where:
 - `doc_len` is the length of the document.
 - `avg_doc_len` is the average document length.
 - `k1` and `b` are parameters set to control term frequency saturation and document length normalization.
-- 
+
 ## Screenshots
 
 ### Initial State
